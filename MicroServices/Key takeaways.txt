@@ -1,0 +1,13 @@
+Key takeaways
+ - Not just a slam dunk - needs foundational readiness
+ - Paradigm shift - typical team structures don't work well, need the right mix to get things done quickly and not spin the wheels
+
+ - Various strategies to go from current state architecture to target state - you've seen a couple of choices
+  - we will work with you, whatever strategy you choose, but if you ask us, we would say follow a disciplined approach
+     - API first
+     - Realize the value there, stabilize it, address operational concerns, stand up subscription management and billing, and get a real customer
+     - Only then start to iterate the process and start moving full shift onto microservices across the board.  
+
+
+- "One team" culture - where information is shared and everyone participates in healthy conversations
+
